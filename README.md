@@ -12,11 +12,14 @@ For the latest information on this project, take a look at:
 
 ###Installation via rubygems ###
 
-    gem install eventbrite-client
+```ruby
+gem install eventbrite-client
+```
 
 ###Loading the Eventbrite API Client library code###
 
-    require 'eventbrite-client'
+```ruby
+require 'eventbrite-client'
 
 ###Initializing the client###
 Your API / Application key is required to initialize the client - http://eventbrite.com/api/key
